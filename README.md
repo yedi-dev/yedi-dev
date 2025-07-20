@@ -5,6 +5,11 @@
 안녕하세요, 안정성과 효율성을 중시하는 백엔드 개발자 최예지입니다.  
 Java와 Spring 기반 API를 주로 개발하며, 최근에는 AWS, Docker, Jenkins를 활용한 배포 자동화에도 관심을 갖고 있습니다.
 
+###
+
+Hello, I'm Yeji Choi, a backend developer who values stability and efficiency.
+I primarily develop Java and Spring-based APIs, and I'm currently interested in deployment automation using AWS, Docker, and Jenkins.
+
 
 <!--
 **yedi-dev/yedi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
