@@ -2,13 +2,15 @@
 
 ###
 
-안녕하세요, 안정성과 효율성을 중시하는 백엔드 개발자 최예지입니다.  
-Java와 Spring 기반 API를 주로 개발하며, 최근에는 AWS, Docker, Jenkins를 활용한 배포 자동화에도 관심을 갖고 있습니다.
+안녕하세요, 안정성과 효율적인 구조를 중시하는 백엔드 개발자 최예지입니다.
+Java와 Spring 기반의 API 개발을 주력으로 하고 있으며, AWS 환경에서의 서비스 운영과 Docker·Kubernetes 기반 컨테이너 실습을 통해 배포 및 운영 역량을 꾸준히 확장하고 있습니다.
+또한 Redis와 Kafka 등을 활용한 기능 개발 경험이 있으며, 운영 환경에서 사용되는 다양한 도구들도 직접 다뤄보며 익히고 있습니다.
 
 ###
 
-Hello, I'm Yeji Choi, a backend developer who values stability and efficiency.
-I primarily develop Java and Spring-based APIs, and I'm currently interested in deployment automation using AWS, Docker, and Jenkins.
+Hello, I'm Yeji Choi, a backend developer who values stability and efficient system design.
+I primarily develop Java and Spring-based APIs, and I am continuously expanding my deployment and operational capabilities through hands-on experience with AWS, Docker, and Kubernetes.
+I also have experience working with Redis and Kafka, and I am exploring various operational tools by working with them directly in practical environments.
 
 
 <!--
